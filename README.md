@@ -8,8 +8,8 @@ The detection of hate speech has become a priority given the huge amount of info
 
 This project aims to detect hateful comments addressed to the main female political leaders in Spain by developing automatic tools based on machine learning and natural language processing.
 
-[Alejandro Marcos Díaz](https://github.com/amarcosdiinf) - Computer Science undergraduate students - Universidad Pontificia de Salamanca
-[Gonzalo Martín Amador](https://github.com/gon99martin) – Computer Science undergraduate students - Universidad Pontificia de Salamanca
+[Alejandro Marcos Díaz](https://github.com/amarcosdiinf) - Computer Science undergraduate student - Universidad Pontificia de Salamanca
+[Gonzalo Martín Amador](https://github.com/gon99martin) – Computer Science undergraduate student - Universidad Pontificia de Salamanca
 
 ### How to learn to automatically analyze MRIs in less than 6 months
 
